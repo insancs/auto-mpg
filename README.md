@@ -1,0 +1,2 @@
+# auto-mpg
+This is an exploratory data analysis for Auto-MPG dataset. Auto-MPG contains one line per car model and includes information such as the year of manufacture of the car (model_year), fuel efficiency (measured in "miles per gallon" or "mpg"), and origin (US, Europe, or Japan). The libraries that will be used this time are Pandas for data manipulation, Seaborn and Matplotlib for data visualization.
